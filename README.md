@@ -71,12 +71,11 @@ Handling data skewness: Addressing class imbalance Standardizing or normalizing 
 
 ---
 
-### Step 3: Model Training
-Description of how the model is trained.
+### I then created a power BI dashboard visualizing my analytical questions.
 
 ---
 
 ## Additional Information
-Any additional information about your project.
+Note that this project is for educational and research puprose only.Any insights and predictions should be interpreted with caution in real world applications
 
 ---
